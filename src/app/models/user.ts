@@ -4,5 +4,5 @@ export interface User {
   email: string,
   isActive?: boolean,
   registered?: any,
-  hide?: boolean,
+  hide?: boolean
 }
